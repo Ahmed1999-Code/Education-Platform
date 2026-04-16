@@ -1,19 +1,19 @@
 {
-  "/_not-found/page": "/_not-found",
   "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/api/stats/route": "/api/stats",
   "/api/register/route": "/api/register",
   "/api/study/route": "/api/study",
-  "/api/stats/route": "/api/stats",
   "/favicon.ico/route": "/favicon.ico",
   "/api/subjects/route": "/api/subjects",
+  "/_not-found/page": "/_not-found",
   "/page": "/",
   "/[locale]/login/page": "/[locale]/login",
-  "/[locale]/register/page": "/[locale]/register",
   "/[locale]/page": "/[locale]",
+  "/[locale]/register/page": "/[locale]/register",
+  "/[locale]/dashboard/settings/page": "/[locale]/dashboard/settings",
   "/[locale]/dashboard/study/page": "/[locale]/dashboard/study",
-  "/[locale]/dashboard/page": "/[locale]/dashboard",
   "/[locale]/dashboard/statistics/page": "/[locale]/dashboard/statistics",
   "/[locale]/dashboard/subjects/new/page": "/[locale]/dashboard/subjects/new",
-  "/[locale]/dashboard/subjects/page": "/[locale]/dashboard/subjects",
-  "/[locale]/dashboard/settings/page": "/[locale]/dashboard/settings"
+  "/[locale]/dashboard/page": "/[locale]/dashboard",
+  "/[locale]/dashboard/subjects/page": "/[locale]/dashboard/subjects"
 }

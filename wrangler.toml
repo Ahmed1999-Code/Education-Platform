@@ -13,3 +13,8 @@ enabled = true
 invocation_logs = true
 
 [observability.traces]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "smart-study-planner-db"
+database_id = "55b6575b-e05e-449a-ba72-2acc2d3cb1dd"
