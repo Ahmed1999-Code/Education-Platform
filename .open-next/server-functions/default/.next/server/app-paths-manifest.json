@@ -1,0 +1,19 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/register/route": "app/api/register/route.js",
+  "/api/study/route": "app/api/study/route.js",
+  "/api/stats/route": "app/api/stats/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/subjects/route": "app/api/subjects/route.js",
+  "/page": "app/page.js",
+  "/[locale]/login/page": "app/[locale]/login/page.js",
+  "/[locale]/register/page": "app/[locale]/register/page.js",
+  "/[locale]/page": "app/[locale]/page.js",
+  "/[locale]/dashboard/study/page": "app/[locale]/dashboard/study/page.js",
+  "/[locale]/dashboard/page": "app/[locale]/dashboard/page.js",
+  "/[locale]/dashboard/statistics/page": "app/[locale]/dashboard/statistics/page.js",
+  "/[locale]/dashboard/subjects/new/page": "app/[locale]/dashboard/subjects/new/page.js",
+  "/[locale]/dashboard/subjects/page": "app/[locale]/dashboard/subjects/page.js",
+  "/[locale]/dashboard/settings/page": "app/[locale]/dashboard/settings/page.js"
+}
